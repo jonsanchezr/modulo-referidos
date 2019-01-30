@@ -1,0 +1,9 @@
+como se instala:
+1- copia todos los archivos en tu carpeta raiz donde tengas la web.
+2- instala el modulo desde la web para el area de usuarios el archivo mis_referidos.php
+3- Configura el modulo desde el enlace referido configurar en el panel izquierdo.
+4- define cantidad de moneda, tablas de los creditos y modo de visualizar el block.
+
+
+nota: este modulo reemplaza el modulo de registro, si posees un registro personalizado puedes,
+leer el archivo del registro para tomar los elementos del modulo ya que todo esta documentado.

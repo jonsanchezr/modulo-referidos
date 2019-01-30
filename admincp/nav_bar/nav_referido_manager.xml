@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+<nav_cat title="Referido Management [User]" group="200">
+<nav_option link="index.php?get=referido_manager" group="200">Referido Configurar</nav_option></nav_cat>
+</nav_master>
